@@ -1,0 +1,3 @@
+../icode/card/card.c:12:9:SPI2_ReadWriteByte	32	static
+../icode/card/card.c:18:6:MEMCARD_CS	16	static
+../icode/card/card.c:151:6:ReadFrame	32	static

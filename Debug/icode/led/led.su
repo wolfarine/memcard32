@@ -1,0 +1,5 @@
+../icode/led/led.c:9:6:LED_1	16	static
+../icode/led/led.c:14:6:LED_2	16	static
+../icode/led/led.c:19:6:LED_ALL	16	static
+../icode/led/led.c:26:6:LED_1_Contrary	8	static
+../icode/led/led.c:29:6:LED_2_Contrary	8	static
