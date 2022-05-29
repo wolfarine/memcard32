@@ -4,7 +4,8 @@
 ### If you got tons of psx memcards, there would be problems to find out one specific.
 ### Now i make a memcard reader, with which you can view the content inside without even turn on your ps1/2 console.
 
-<iframe src="//player.bilibili.com/player.html?aid=982038867&bvid=BV1xt4y1p7CF&cid=732728768&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
++ video clip
+[https://www.bilibili.com/video/BV1xt4y1p7CF]
 
 ## Feature
 + Read title and name of the saves.
