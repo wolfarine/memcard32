@@ -35,9 +35,9 @@
 + PB7 SDA
 + PB6 SCL i2c sh1106 12864 oled
 + PB11 memcard ack
-+ PB14 memcard CMD
-+ PB15 memcard DAT
-+ PB13 memcard CLK
++ PB14 memcard DAT spi2_miso
++ PB15 memcard CMD spi2_mosi
++ PB13 memcard CLK spi2_sck
 + PB12 memcard ATT [memcard pinout](https://psx-spx.consoledev.net/pinouts/#pinouts-controller-ports-and-memory-card-ports)
 
 
